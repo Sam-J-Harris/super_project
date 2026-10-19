@@ -14,3 +14,6 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 1. Install water bowl
 1. Install cat tower
 1. Install cat bed
+
+This is another line added to demonstrate pulling between branches.
+
